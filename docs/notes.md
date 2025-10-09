@@ -18,3 +18,4 @@ Notes and usage details for Tactical-Matrix-Console.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
