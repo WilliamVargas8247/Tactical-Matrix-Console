@@ -40,3 +40,4 @@ Notes and usage details for Tactical-Matrix-Console.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
